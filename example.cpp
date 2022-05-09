@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 
 void example()
 {
@@ -25,4 +25,7 @@ void example()
 
 	void example08();
 	example08();
+
+	void example09();
+	example09();
 }
